@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\ComprehendLab.exe.config
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\ComprehendLab.exe
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\ComprehendLab.pdb
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\AWSSDK.Comprehend.dll
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\AWSSDK.Core.dll
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\AWSSDK.Comprehend.pdb
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\AWSSDK.Comprehend.xml
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\bin\Debug\AWSSDK.Core.xml
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\obj\Debug\ComprehendLab.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\obj\Debug\ComprehendLab.exe
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\obj\Debug\ComprehendLab.pdb
+C:\Users\Administrator\source\repos\Win305Solution\ComprehendLab\obj\Debug\ComprehendLab.csprojAssemblyReference.cache

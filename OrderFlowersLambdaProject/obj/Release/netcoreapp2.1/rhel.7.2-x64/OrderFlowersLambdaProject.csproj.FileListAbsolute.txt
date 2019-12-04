@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.deps.json
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.runtimeconfig.json
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.dll
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\bin\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.pdb
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.dll
+C:\Users\Administrator\source\repos\Win305Solution\OrderFlowersLambdaProject\obj\Release\netcoreapp2.1\rhel.7.2-x64\OrderFlowersLambdaProject.pdb
